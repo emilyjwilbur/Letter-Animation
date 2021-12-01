@@ -1,2 +1,2 @@
-# rankme
-ranking tool using HTML, CSS &amp; JS
+# You are...
+Letter animation using HTML, CSS &amp; JS
